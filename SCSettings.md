@@ -1,4 +1,5 @@
-<img alt="Static Badge" src="https://img.shields.io/badge/Download?link=https%3A%2F%2Froutinehub.co%2Fshortcut%2F17931%2F">
+<img alt="Static Download Badge" src="https://img.shields.io/badge/Download-blue?link=https%3A%2F%2Froutinehub.co%2Fshortcut%2F17931%2F">
+
 
 ![SCSettings](https://i.imgur.com/PAUf9ON_d.webp?maxwidth=1520&fidelity=grand)
 
