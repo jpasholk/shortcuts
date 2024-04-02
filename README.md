@@ -16,4 +16,5 @@ Quickly access settings or toggles that are burried under several taps. This Sho
 
 ## Credits:
 
-* [Linking to a URL with a shields.io badge](https://stackoverflow.com/questions/66716288/embedding-shields-io-badge-html-in-github-readme-rst)
+- [Linking to a URL with a shields.io badge](https://stackoverflow.com/questions/66716288/embedding-shields-io-badge-html-in-github-readme-rst)
+- [twilsonco](https://github.com/twilsonco) for inspiring me to make this repo!
